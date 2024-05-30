@@ -56,7 +56,7 @@ export default {
 <style scoped>
 #app{
   font-family: "Space Mono", monospace;
-  color: rgb(235, 235, 241);
+  color: rgb(8, 8, 80);
  
 }
 h3 {
