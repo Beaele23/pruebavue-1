@@ -101,7 +101,7 @@ export default {
   filter: blur(5px) grayscale(100%);
 }
 .btn {
-  color: rgb(22, 34, 104);
+  color: rgb(19, 32, 107);
 }
 .d-grid {
   background-color: rgb(243, 208, 52);
